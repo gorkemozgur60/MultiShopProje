@@ -1,0 +1,39 @@
+﻿@model List<ResultCategory>
+
+@{
+    Layout = null;
+}
+
+<section class="content container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="chart-box">
+                <h4>Kategori Listesi</h4>
+                <div class="bs-example" data-example-id="bordered-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Kategori Adı</th>
+                                <th>Kategori Resmi</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.CategoryId</td>
+                                    <td>@item.CategoryName</td>
+                                    <td>@item.ImageUrl</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

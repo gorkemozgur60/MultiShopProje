@@ -1,0 +1,33 @@
+﻿@model List<ResultOrderingByUserIdDto>
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>CustomerId</th>
+            <th>Order Date</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.OrderingId</td>
+                <td>@item.UserId</td>
+                <td>@item.OrderDate.ToShortDateString()</td>
+                <td>@item.TotalPrice.ToString("C")</td>
+                <td>
+                    <a href="/Admin/Orders/Detail/@item.OrderingId" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

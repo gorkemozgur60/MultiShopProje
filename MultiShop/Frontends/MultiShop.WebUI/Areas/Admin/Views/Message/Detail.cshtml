@@ -1,0 +1,31 @@
+﻿@model GetByContactDto
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ContactId</th>
+            <th>NameSurname</th>
+            <th>Email</th>
+            <th>Subject</th>
+            <th>Message</th>
+            <th>Status</th>
+            <th>Send Time</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td>@Model.ContactId</td>
+            <td>@Model.NameSurname</td>
+            <td>@Model.Email</td>
+            <td>@Model.Subject</td>
+            <td>@Model.Message</td>
+            <td>@Model.IsRead</td>
+            <td>@Model.SendTime.ToShortDateString()</td>
+            </tr>
+    </tbody>
+</table>
+

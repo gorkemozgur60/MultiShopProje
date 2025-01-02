@@ -1,0 +1,29 @@
+﻿@model GetOrderDetailsResult
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>ProductId</th>
+            <th>ProductName</th>
+            <th>ProductPrice</th>
+            <th>ProductAmount</th>
+            <th>ProductTotalPrice</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td>@Model.OrderingId</td>
+            <td>@Model.ProductId</td>
+            <td>@Model.ProductName</td>
+            <td>@Model.ProductPrice</td>
+            <td>@Model.ProductAmount</td>
+            <td>@Model.ProductTotalPrice.ToString("C")</td>
+            </tr>
+    </tbody>
+</table>
+

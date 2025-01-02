@@ -1,0 +1,34 @@
+﻿@model List<ResultContactDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ContactId</th>
+            <th>NameSurname</th>
+            <th>Subject</th>
+            <th>Status</th>
+            <th>Send Time</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ContactId</td>
+                <td>@item.NameSurname</td>
+                <td>@item.Subject</td>
+                <td>@item.IsRead</td>
+                <td>@item.SendTime.ToShortDateString()</td>
+                <td>
+                    <a href="/Admin/Message/ContactDetail/@item.ContactId" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

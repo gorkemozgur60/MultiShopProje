@@ -1,0 +1,37 @@
+﻿@model CreateCommentDto
+@{
+    ViewData["Title"] = "CreateComment";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<section class="content container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="chart-box">
+                <h4>Marka Ekleme Sayfası</h4>
+                <br />
+                <div class="bs-example" data-example-id="bordered-table">
+                    <form method="post">
+                        <label>Kullanıcı Adı Soyadı</label>
+                        <input type="text" class="form-control" asp-for="NameSurname" />
+                        <br />
+                        <label>Marka Url</label>
+                        <input type="text" class="form-control" asp-for="Email" />
+                        <label>Marka Url</label>
+                        <input type="text" class="form-control" asp-for="CommentDetail" />
+                        <br />
+                        <label>Marka Url</label>
+                        <input type="text" class="form-control" asp-for="Rating" />
+                        <br />
+                        <label>Marka Url</label>
+                        <input type="text" class="form-control" asp-for="Email" />
+                        <br />
+                        <br />
+                        <button class="btn btn-primary">Marka Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

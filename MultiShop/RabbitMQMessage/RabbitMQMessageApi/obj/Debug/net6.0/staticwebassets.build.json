@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MhflLGePTlCJlZZCCs2jWtjALlfabCRkmQqCb9wr3mA=",
+  "Source": "RabbitMQMessageApi",
+  "BasePath": "_content/RabbitMQMessageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
