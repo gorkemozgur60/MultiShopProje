@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1yQp6cnyJU=",
+  "dgSpecHash": "Kcp7VEBUCoY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.36\\microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512",

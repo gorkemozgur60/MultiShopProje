@@ -1208,11 +1208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj",
+      "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj",
       "projectName": "MultiShop.OcelotGateway",
-      "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj",
+      "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj",
       "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\obj\\",
+      "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",

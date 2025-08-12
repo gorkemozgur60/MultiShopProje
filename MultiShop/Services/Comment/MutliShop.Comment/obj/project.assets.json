@@ -2508,11 +2508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
+      "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
       "projectName": "MutliShop.Comment",
-      "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
+      "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Comment\\MutliShop.Comment\\MutliShop.Comment.csproj",
       "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Comment\\MutliShop.Comment\\obj\\",
+      "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Comment\\MutliShop.Comment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",

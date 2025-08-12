@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tw4ndje2FYs=",
+  "dgSpecHash": "ceVE24dRH0Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

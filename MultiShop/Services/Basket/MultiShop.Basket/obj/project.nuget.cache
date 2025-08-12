@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DkebZLIdMw=",
+  "dgSpecHash": "PskMh6KXfT0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.35\\microsoft.aspnetcore.authentication.jwtbearer.6.0.35.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

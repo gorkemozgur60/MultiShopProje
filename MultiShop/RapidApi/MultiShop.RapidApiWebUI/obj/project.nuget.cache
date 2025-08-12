@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TF9Wz6mR0I=",
+  "dgSpecHash": "t50dJfPznNw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\RapidApi\\MultiShop.RapidApiWebUI\\MultiShop.RapidApiWebUI.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\RapidApi\\MultiShop.RapidApiWebUI\\MultiShop.RapidApiWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

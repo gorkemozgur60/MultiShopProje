@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4p2Pc0gZZs=",
+  "dgSpecHash": "/DONViZqbiw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

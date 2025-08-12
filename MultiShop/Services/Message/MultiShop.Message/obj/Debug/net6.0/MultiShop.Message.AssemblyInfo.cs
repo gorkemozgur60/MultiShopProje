@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Message")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a9261266ed7f402db92e378d5a1c9cac8733e6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Message")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Message")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1KEGvC/Lrs=",
+  "dgSpecHash": "kWH3PKt0UA4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\361\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\361\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj": {}
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
         "projectName": "MultiShop.Catalog",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj",
         "projectName": "MultiShop.DtoLayer",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
         "projectName": "MultiShop.WebUI",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,17 +180,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj"
               },
-              "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj"
               },
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj"
               },
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj"
               }
             }
           }
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
         "projectName": "MultiShop.IdentityServer",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -366,14 +366,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
         "projectName": "MultiShop.Cargo.DtoLayer",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -391,8 +391,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj"
               }
             }
           }
@@ -431,14 +431,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj",
         "projectName": "MultiShop.Cargo.EntityLayer",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -514,14 +514,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
         "projectName": "MultiShop.Order.Application",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -539,8 +539,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
               }
             }
           }
@@ -601,14 +601,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
         "projectName": "MultiShop.Order.Domain",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -662,14 +662,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
         "projectName": "MultiShop.Order.Persistence",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -687,11 +687,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj"
               },
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
               }
             }
           }
@@ -746,14 +746,14 @@
         }
       }
     },
-    "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj": {
+    "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj",
+        "projectUniqueName": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj",
         "projectName": "MultiShop.SignalRRealTime",
-        "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj",
+        "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\MultiShop.SignalRRealTime.csproj",
         "packagesPath": "C:\\Users\\361\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\obj\\",
+        "outputPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Services\\SignalRRealTime\\MultiShop.SignalRRealTime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\361\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -771,8 +771,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj": {
-                "projectPath": "C:\\Users\\361\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj"
+              "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj": {
+                "projectPath": "C:\\Users\\361\\Documents\\GitHub\\MultiShopProje\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj"
               }
             }
           }
