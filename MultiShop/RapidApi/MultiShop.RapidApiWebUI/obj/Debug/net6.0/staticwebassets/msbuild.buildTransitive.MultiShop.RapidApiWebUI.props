@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MultiShop.RapidApiWebUI.props" />
-</Project>

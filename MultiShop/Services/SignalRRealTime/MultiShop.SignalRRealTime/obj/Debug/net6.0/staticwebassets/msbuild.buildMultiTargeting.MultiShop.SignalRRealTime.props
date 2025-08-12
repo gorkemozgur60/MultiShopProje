@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\MultiShop.SignalRRealTime.props" />
-</Project>

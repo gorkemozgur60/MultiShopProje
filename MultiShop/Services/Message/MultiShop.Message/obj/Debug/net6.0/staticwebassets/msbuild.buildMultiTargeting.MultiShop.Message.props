@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\MultiShop.Message.props" />
-</Project>
